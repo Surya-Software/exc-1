@@ -1,0 +1,3 @@
+Casey,60000
+Bartowski,40000
+Walker,23000
